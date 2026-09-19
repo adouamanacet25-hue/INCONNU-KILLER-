@@ -1,0 +1,20 @@
+{
+  "name": "inconnu-killer-bot",
+  "version": "1.0.0",
+  "description": "亗 I₦₵Ø₦₦Ʉ 亗 ₭łⱠⱠɆⱤ 亗 - WhatsApp + Telegram Dual Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mr KIRA & Mr EGO TECH",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
